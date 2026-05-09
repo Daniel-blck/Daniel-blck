@@ -25,7 +25,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 
 ### Backend & Frontend

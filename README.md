@@ -13,8 +13,7 @@
 
 -  Applied Computer Science student
 -  Interested in cybersecurity and backend development
--  Exploring IoT, embedded systems, and automation
--  Currently working at VEAN Tattoo
+-  Currently working at VEAN TATTOO
 -  Based in Poland
 
 ---
